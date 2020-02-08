@@ -16,7 +16,7 @@ body{
     height: 400px;
   }
   .main-contents {
-    background-color: red;
+    background-color: rgb(0, 0, 255);
     color: #fff;
     float: left;
     width: 80%;
